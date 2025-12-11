@@ -6,20 +6,11 @@ sites:
   - name: Talka Insights
     url: https://insights.talka.ai
   - name: Talka Intelligence Service
-    url: https://models-results.talka.ai/
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url: https://models-results.talka.ai
   - name: Talka Salesforce Service
-    url:  https://salesforce-platform.talka.ai/
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url:  https://salesforce-platform.talka.ai
   - name: Talka Hubspot Service
     url:  https://hubspot-platform.talka.ai
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
