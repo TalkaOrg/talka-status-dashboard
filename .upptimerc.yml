@@ -24,5 +24,14 @@ status-website:
     - title: Status
       href: /
 
+workflowSchedule:
+  uptime: "0 * * * *"
+  responseTime: "0 * * * *"
+  summary: "0 * * * *"
+  graphs: "0 * * * *"
+  staticSite: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
