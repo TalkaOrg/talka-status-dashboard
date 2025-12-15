@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/models-results.talka.ai.ico",
     "slug": "talka-intelligence-service",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 234,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2025-12-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Talka Salesforce Service",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/salesforce-platform.talka.ai.ico",
     "slug": "talka-salesforce-service",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 241,
     "timeWeek": 178,
     "timeMonth": 178,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2025-12-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Talka Hubspot Service",
@@ -63,19 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hubspot-platform.talka.ai.ico",
     "slug": "talka-hubspot-service",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 195,
     "timeWeek": 156,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {
-      "2025-12-15": 24,
-      "2025-12-11": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
