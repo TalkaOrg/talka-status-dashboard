@@ -40,7 +40,7 @@
     "url": "https://salesforce-platform.talka.ai",
     "icon": "https://icons.duckduckgo.com/ip3/salesforce-platform.talka.ai.ico",
     "slug": "talka-salesforce-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
@@ -52,6 +52,7 @@
     "timeMonth": 188,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2026-01-22": 18,
       "2026-01-21": 35,
       "2026-01-02": 39
