@@ -1,7 +1,7 @@
 url: https://hubspot-platform.talka.ai
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2026-01-27T23:04:02.264Z
+status: down
+code: 502
+responseTime: 80
+lastUpdated: 2026-01-28T11:36:04.710Z
 startTime: 2025-12-11T23:47:48.875Z
 generator: Upptime <https://github.com/upptime/upptime>
